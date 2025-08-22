@@ -1,4 +1,4 @@
-# Frontend Project Shopping cart Application
+# Frontend Project Shopping-cart-Application
 
 ### Here install
 
